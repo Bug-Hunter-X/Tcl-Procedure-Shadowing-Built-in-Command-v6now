@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Tcl programming related to procedure names clashing with built-in commands. The bug occurs because a custom procedure is defined with the same name as a command that is already available in Tcl.  The solution shows how to avoid this by carefully choosing procedure names and testing for potential conflicts.
